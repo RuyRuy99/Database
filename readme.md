@@ -13,7 +13,7 @@ O arquivo `Atv_1_Big_data` concentra-se nas operações básicas de manipulaçã
 - **DELETE**: Deleção de registros existentes, permitindo a remoção de dados que não são mais necessários ou que devem ser excluídos por outros motivos.
 - **SELECTS**: Consultas que permitem recuperar dados específicos de tabelas, organizando e filtrando de acordo com as necessidades do usuário.
 
-### Atv_2_Bug_data
+### Atv_2_Big_data
 
 O arquivo `Atv_2_Big_data` foca em técnicas avançadas de manipulação e consulta de dados SQL, incluindo:
 
