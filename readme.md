@@ -15,7 +15,7 @@ O arquivo `Atv_1_Big_data` concentra-se nas operações básicas de manipulaçã
 
 ### Atv_2_Bug_data
 
-O arquivo `Atv_2_Bug_data` foca em técnicas avançadas de manipulação e consulta de dados SQL, incluindo:
+O arquivo `Atv_2_Big_data` foca em técnicas avançadas de manipulação e consulta de dados SQL, incluindo:
 
 - **Funções Agregadas**: Utilização de funções como SUM, AVG, COUNT, entre outras, para realizar cálculos e agregações de dados, permitindo uma análise mais profunda e resumida dos dados armazenados.
 - **JOIN**: Operações de junção entre duas ou mais tabelas, permitindo a combinação de dados relacionados de diferentes tabelas em uma única consulta.
