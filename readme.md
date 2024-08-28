@@ -24,11 +24,3 @@ O arquivo `Atv_2_Big_data` foca em técnicas avançadas de manipulação e consu
 ## Objetivo
 
 Os arquivos foram criados com o intuito de oferecer uma ferramenta prática para a manipulação e análise de dados em um contexto de Big Data, proporcionando aos usuários a habilidade de executar tarefas comuns de gerenciamento de dados de forma eficiente e eficaz.
-
-## Utilização
-
-Para utilizar os scripts contidos nos arquivos, é necessário ter acesso a um ambiente que suporte a execução de comandos SQL, como PostgreSQL, MySQL, entre outros. Certifique-se de configurar corretamente as conexões de banco de dados antes de executar os scripts.
-
----
-
-Para mais informações, por favor, consulte a documentação específica de cada comando SQL utilizado nos scripts ou entre em contato com o administrador do banco de dados.
